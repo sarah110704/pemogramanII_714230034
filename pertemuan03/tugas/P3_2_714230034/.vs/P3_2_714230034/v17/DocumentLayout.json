@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan03\\tugas\\P3_2_714230034\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94505D-A667-4D9B-A9A7-DA2D58982751}|P3_2_714230034\\P3_2_714230034.csproj|c:\\pemograman_2\\pemogramanii_714230034\\pertemuan03\\tugas\\p3_2_714230034\\p3_2_714230034\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94505D-A667-4D9B-A9A7-DA2D58982751}|P3_2_714230034\\P3_2_714230034.csproj|solutionrelative:p3_2_714230034\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan03\\tugas\\P3_2_714230034\\P3_2_714230034\\Program.cs",
+              "RelativeDocumentMoniker": "P3_2_714230034\\Program.cs",
+              "ToolTip": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan03\\tugas\\P3_2_714230034\\P3_2_714230034\\Program.cs",
+              "RelativeToolTip": "P3_2_714230034\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:47:52.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

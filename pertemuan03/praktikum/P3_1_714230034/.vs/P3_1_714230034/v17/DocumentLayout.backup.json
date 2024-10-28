@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATA D\\SEMESTER 3\\pemograman_2\\pemogramanII_714230034\\pertemuan03\\praktikum\\P3_1_714230034\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264F713D-1902-42DA-81D0-9C2D997F9D82}|P3_1_714230034\\P3_1_714230034.csproj|d:\\data d\\semester 3\\pemograman_2\\pemogramanii_714230034\\pertemuan03\\praktikum\\p3_1_714230034\\p3_1_714230034\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264F713D-1902-42DA-81D0-9C2D997F9D82}|P3_1_714230034\\P3_1_714230034.csproj|solutionrelative:p3_1_714230034\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DATA D\\SEMESTER 3\\pemograman_2\\pemogramanII_714230034\\pertemuan03\\praktikum\\P3_1_714230034\\P3_1_714230034\\Program.cs",
+              "RelativeDocumentMoniker": "P3_1_714230034\\Program.cs",
+              "ToolTip": "D:\\DATA D\\SEMESTER 3\\pemograman_2\\pemogramanII_714230034\\pertemuan03\\praktikum\\P3_1_714230034\\P3_1_714230034\\Program.cs",
+              "RelativeToolTip": "P3_1_714230034\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:07:51.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
