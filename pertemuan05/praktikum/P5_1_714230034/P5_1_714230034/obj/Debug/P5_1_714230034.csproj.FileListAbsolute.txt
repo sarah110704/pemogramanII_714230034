@@ -1,0 +1,10 @@
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\bin\Debug\P5_1_714230034.exe.config
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\bin\Debug\P5_1_714230034.exe
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\bin\Debug\P5_1_714230034.pdb
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\obj\Debug\P5_1_714230034.csproj.AssemblyReference.cache
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\obj\Debug\P5_1_714230034.Form1.resources
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\obj\Debug\P5_1_714230034.Properties.Resources.resources
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\obj\Debug\P5_1_714230034.csproj.GenerateResource.cache
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\obj\Debug\P5_1_714230034.csproj.CoreCompileInputs.cache
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\obj\Debug\P5_1_714230034.exe
+C:\pemograman_2\pemogramanII_714230034\pertemuan05\P5_1_714230034\P5_1_714230034\obj\Debug\P5_1_714230034.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D274E20E-41A5-4C4D-9414-B7E1CE5FDBBE}|P5_2_714230034\\P5_2_714230034.csproj|c:\\pemograman_2\\pemogramanii_714230034\\pertemuan05\\praktikum\\p5_2_714230034\\p5_2_714230034\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D274E20E-41A5-4C4D-9414-B7E1CE5FDBBE}|P5_2_714230034\\P5_2_714230034.csproj|solutionrelative:p5_2_714230034\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274E20E-41A5-4C4D-9414-B7E1CE5FDBBE}|P5_2_714230034\\P5_2_714230034.csproj|C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\p5_2_714230034\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274E20E-41A5-4C4D-9414-B7E1CE5FDBBE}|P5_2_714230034\\P5_2_714230034.csproj|solutionrelative:p5_2_714230034\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274E20E-41A5-4C4D-9414-B7E1CE5FDBBE}|P5_2_714230034\\P5_2_714230034.csproj|C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\p5_2_714230034\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D274E20E-41A5-4C4D-9414-B7E1CE5FDBBE}|P5_2_714230034\\P5_2_714230034.csproj|solutionrelative:p5_2_714230034\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274E20E-41A5-4C4D-9414-B7E1CE5FDBBE}|P5_2_714230034\\P5_2_714230034.csproj|C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\p5_2_714230034\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274E20E-41A5-4C4D-9414-B7E1CE5FDBBE}|P5_2_714230034\\P5_2_714230034.csproj|solutionrelative:p5_2_714230034\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\P5_2_714230034\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230034\\ParentForm.cs",
+              "ToolTip": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\P5_2_714230034\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714230034\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:30:00.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\P5_2_714230034\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230034\\ChildForm.cs",
+              "ToolTip": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\P5_2_714230034\\ChildForm.cs",
+              "RelativeToolTip": "P5_2_714230034\\ChildForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:22:47.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\P5_2_714230034\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230034\\ChildForm.cs",
+              "ToolTip": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\P5_2_714230034\\ChildForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714230034\\ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:45:51.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\P5_2_714230034\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230034\\ParentForm.cs",
+              "ToolTip": "C:\\pemograman_2\\pemogramanII_714230034\\pertemuan05\\praktikum\\P5_2_714230034\\P5_2_714230034\\ParentForm.cs",
+              "RelativeToolTip": "P5_2_714230034\\ParentForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAnwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:33:47.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\bin\Debug\P5_4_714230034.exe.config
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\bin\Debug\P5_4_714230034.exe
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\bin\Debug\P5_4_714230034.pdb
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\obj\Debug\P5_4_714230034.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\obj\Debug\P5_4_714230034.Form1.resources
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\obj\Debug\P5_4_714230034.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\obj\Debug\P5_4_714230034.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\obj\Debug\P5_4_714230034.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\obj\Debug\P5_4_714230034.exe
+C:\Users\LENOVO\source\repos\P5_4_714230034\P5_4_714230034\obj\Debug\P5_4_714230034.pdb

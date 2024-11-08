@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\pemograman_2\\pemogramanII_714230034\\Pertemuan04\\praktikum\\P4_1_714230034\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C49B14B-1F59-466F-9D8D-5B2634C9DE2A}|P4_1_714230034\\P4_1_714230034.csproj|c:\\pemograman_2\\pemogramanii_714230034\\pertemuan04\\praktikum\\p4_1_714230034\\p4_1_714230034\\producttest_714230034.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C49B14B-1F59-466F-9D8D-5B2634C9DE2A}|P4_1_714230034\\P4_1_714230034.csproj|solutionrelative:p4_1_714230034\\producttest_714230034.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C49B14B-1F59-466F-9D8D-5B2634C9DE2A}|P4_1_714230034\\P4_1_714230034.csproj|c:\\pemograman_2\\pemogramanii_714230034\\pertemuan04\\praktikum\\p4_1_714230034\\p4_1_714230034\\dvd_714230034.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C49B14B-1F59-466F-9D8D-5B2634C9DE2A}|P4_1_714230034\\P4_1_714230034.csproj|solutionrelative:p4_1_714230034\\dvd_714230034.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C49B14B-1F59-466F-9D8D-5B2634C9DE2A}|P4_1_714230034\\P4_1_714230034.csproj|c:\\pemograman_2\\pemogramanii_714230034\\pertemuan04\\praktikum\\p4_1_714230034\\p4_1_714230034\\producttest_714230034.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C49B14B-1F59-466F-9D8D-5B2634C9DE2A}|P4_1_714230034\\P4_1_714230034.csproj|solutionrelative:p4_1_714230034\\producttest_714230034.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C49B14B-1F59-466F-9D8D-5B2634C9DE2A}|P4_1_714230034\\P4_1_714230034.csproj|c:\\pemograman_2\\pemogramanii_714230034\\pertemuan04\\praktikum\\p4_1_714230034\\p4_1_714230034\\book_714230034.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DVD_714230034.cs",
               "DocumentMoniker": "C:\\pemograman_2\\pemogramanII_714230034\\Pertemuan04\\praktikum\\P4_1_714230034\\P4_1_714230034\\DVD_714230034.cs",
               "RelativeDocumentMoniker": "P4_1_714230034\\DVD_714230034.cs",
               "ToolTip": "C:\\pemograman_2\\pemogramanII_714230034\\Pertemuan04\\praktikum\\P4_1_714230034\\P4_1_714230034\\DVD_714230034.cs",
               "RelativeToolTip": "P4_1_714230034\\DVD_714230034.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T18:19:31.572Z",
               "EditorCaption": ""
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductTest_714230034.cs",
               "DocumentMoniker": "C:\\pemograman_2\\pemogramanII_714230034\\Pertemuan04\\praktikum\\P4_1_714230034\\P4_1_714230034\\ProductTest_714230034.cs",
               "RelativeDocumentMoniker": "P4_1_714230034\\ProductTest_714230034.cs",
